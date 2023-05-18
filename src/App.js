@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 
-
 function ProductCategoryRow({category}){
   return(
     <tr>
